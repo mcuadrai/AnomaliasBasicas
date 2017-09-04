@@ -1,6 +1,5 @@
 # MegaAnomaly
  
-In English:
 Objective: It is an application that identifies the quality of the design that is in a scheme of the database.
            Considering only 2 characteristics: tables without primary key and isolated tables.
 Analysis Database: Oracle
