@@ -1,0 +1,6 @@
+com\megaAnomaly\dao\ConexionBaseDeDatos.class
+com\megaAnomaly\model\dto\UserTabColumn.class
+com\megaAnomaly\model\dto\UserTable.class
+com\megaAnomaly\dao\CatalogoGateWay.class
+com\megaAnomaly\report\App.class
+com\megaAnomaly\model\dto\ProductComponentVersion.class
